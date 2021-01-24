@@ -1,2 +1,2 @@
 # Structs
-Here i will descriptung the structs of data
+Here i will descripting the structs of data
